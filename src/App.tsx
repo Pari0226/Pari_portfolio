@@ -39,7 +39,7 @@ function App() {
               I design and build{" "}
               <span className="text-pink-200">full-stack</span>
               <br />
-              <span className="text-pink-200">ML-powered</span> systems.
+              <span className="text-pink-200">& ML-powered</span> systems.
             </p>
 
             <p className="text-lg text-gray-400 mb-12 max-w-xl leading-relaxed">
